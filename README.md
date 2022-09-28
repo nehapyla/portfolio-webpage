@@ -1,2 +1,2 @@
 # portfolio-webpage
-Created a sample portfolio webpage using HTML and CSS.
+Created a sample portfolio webpage with background images, links to projects, contact info and many options using HTML and CSS.
